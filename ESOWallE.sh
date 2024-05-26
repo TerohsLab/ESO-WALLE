@@ -3,7 +3,7 @@
 
 # The url to your ESO documents directory on steam
 
-DIRSteamESO="/path/to//SteamLibrary/steamapps/compatdata/306130/pfx/drive_c/users/steamuser/Documents/Elder Scrolls Online/live"
+DIRSteamESO="/path/to/SteamLibrary/steamapps/compatdata/306130/pfx/drive_c/users/steamuser/Documents/Elder Scrolls Online/live"
 
 # Change the EU in the URLBaseTTC with US if you are from a certain 3rd world country
 
