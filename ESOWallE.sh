@@ -14,17 +14,17 @@ URLBaseTTC="https://eu.tamrieltradecentre.com/download/PriceTable"
 # Minion currently only runs under proprietary Java Orcale 8
 # You need to manually download the Java 8 files from here : 
 
-# Current - Testing
+# Current - Stable
 # Version : Java jre1.8.0_391
 # Release date : 20 October 2023
 # Direct : https://javadl.oracle.com/webapps/download/AutoDL?BundleId=249192_b291ca3e0c8548b5a51d5a5f50063037
 # Source : https://www.itechtics.com/java-8-update-391/
 
-# Current - Stable
-# Version : Java jre1.8.0_381
-# Release date : 20 July 2023
-# Direct : https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248763_8c876547113c4e4aab3c868e9e0ec572
-# Source : https://www.itechtics.com/java-8-update-381/
+# Current - Testing
+# Version : Java jre1.8.0_401
+# Release date : 16 January 2024
+# Direct : https://javadl.oracle.com/webapps/download/AutoDL?BundleId=249542_4d245f941845490c91360409ecffb3b4
+# Source : https://www.itechtics.com/java-8-update-401/
 
 PATHBinaryJava="/path/to/Java/jre1.8.0_391/bin/java"
 PATHBinaryMinion="/path/to/Minion/Minion-jfx.jar"
